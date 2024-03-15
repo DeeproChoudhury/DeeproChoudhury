@@ -6,7 +6,7 @@ I'm interested in the intersection between mathematics and computer science. Thi
  - Formal theorem proving and its automation.
  - Machine learning and its mathematical foundations.
  - Interpretability of neural networks.
- - Algebra/category theory and its relation to programming languages
+ - Algebra and Category Theory
 
 <!--
 **DeeproChoudhury/DeeproChoudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
