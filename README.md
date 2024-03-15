@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 I'm Deepro, a current masters scholar at Cambridge University.
+
 I'm interested in the intersection between mathematics and computer science.
+
+This includes formal theorem proving, but also machine learning and its theoretical foundations.
 
 <!--
 **DeeproChoudhury/DeeproChoudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
