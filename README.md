@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Deepro, a current masters scholar at Cambridge University.
+I'm Deepro, a current PhD student at the University of Oxford.
 
 I'm interested in the intersection between mathematics and computer science. This includes 
  - Formal theorem proving and its automation.
